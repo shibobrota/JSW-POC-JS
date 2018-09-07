@@ -1,4 +1,4 @@
-# JWS-POC using Javascript
+# JWS-POC using Node.js
 
 
 ### This is a POC of JWS generation using node-jws, then verifying them using methods provided in jws and then decoding it.
