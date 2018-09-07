@@ -1,0 +1,27 @@
+{
+  "name": "jsw-poc",
+  "version": "1.0.0",
+  "description": "POC for generating JSW using JS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/shibobrota/JSW-POC-JS.git"
+  },
+  "keywords": [
+    "JSW",
+    "POC",
+    "JS"
+  ],
+  "author": "Shibobrota Das",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shibobrota/JSW-POC-JS/issues"
+  },
+  "homepage": "https://github.com/shibobrota/JSW-POC-JS#readme",
+  "dependencies": {
+    "jws": "^3.1.5"
+  }
+}
