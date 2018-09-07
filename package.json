@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/shibobrota/JSW-POC-JS.git"
+    "url": "git+ssh://git@github.com:shibobrota/JWS-POC-JS.git"
   },
   "keywords": [
     "JSW",
